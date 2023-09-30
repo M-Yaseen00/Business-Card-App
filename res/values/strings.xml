@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Card App</string>
+    <string name="full_name">Muhammad Yaseen</string>
+    <string name="title">Android Developer Extraordinaire</string>
+    <string name="mobile">+9234682930</string>
+    <string name="share">"@Mr.Yaseen"</string>
+    <string name="email">M.Yaseen@gmail.com</string>
+</resources>
